@@ -1,4 +1,8 @@
 # GAME_PROGRAM-EX--3
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
 ## Aim
 To replace the default third person character mesh with a custom skeletal mesh and apply new animations using an animation blueprint.
 
